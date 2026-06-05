@@ -70,7 +70,6 @@
 ## 📈 GitHub Analytics
 
 <!-- Streak Feature -->
-<h2 align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="45"> GitHub Stats </h2>
 <div align="center" width="50%">
   <p>
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=4nshhh&theme=dark" alt="GitHub Streak" /></a>
@@ -104,6 +103,9 @@
 
 <img width="150" alt="gssoc-badge-power_contributor" src="https://github.com/user-attachments/assets/70bab968-ce4d-4fe3-acf3-a0977576d4a6" />
 <img width="150" alt="gssoc-badge-rising_star" src="https://github.com/user-attachments/assets/fae3c72f-abba-4ec9-82b5-c786df4f7c4b" />
+<img width="150" alt="gssoc-badge-point_scorer" src="https://github.com/user-attachments/assets/56635e5d-f8f1-4142-9378-07a641c53a40" />
+<img width="150" alt="gssoc-badge-role_contributor" src="https://github.com/user-attachments/assets/44394bb1-06c5-41e4-8614-aae65b3bd4eb" />
+
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -113,9 +115,9 @@
 ## 🕹️ Contribution Snake
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4nshhh/4nshhh/output/bomberman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4nshhh/4nshhh/output/bomberman-contribution-graph.svg">
-    <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/4nshhh/4nshhh/output/bomberman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4nshhh/4nshhh/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4nshhh/4nshhh/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/4nshhh/4nshhh/output/pacman-contribution-graph.svg">
 </picture>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
