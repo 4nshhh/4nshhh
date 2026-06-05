@@ -69,44 +69,42 @@
 
 ## 📈 GitHub Analytics
 
-<div align="center">
-
-<h3>📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4nshhh&theme=react" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4nshhh&theme=react" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=4nshhh&theme=react" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=4nshhh&theme=react" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=4nshhh&theme=react&utcOffset=8" alt="Productive Time" />
-</p>
-
-<p align="center">
-   <img height="180em" src="https://github-readmeapp.vercel.app/api?username=4nshhh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=4nshhh&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=4nshhh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies" />
-</p>
-
-[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=4nshhh&theme=dracula&bg_color=0d0d2b&color=A78BFA&line=7C3AED&point=A78BFA&hide_border=true)](https://github.com/4nshhh)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-
+<!-- Streak Feature -->
+<h2 align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="45"> GitHub Stats </h2>
+<div align="center" width="50%">
+  <p>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=4nshhh&theme=dark" alt="GitHub Streak" /></a>
+  </p>
 </div>
+
+<!-- Dropdown for More Stats -->
+<div align="center" style="max-width: 600px; margin: auto;">
+
+  <div align="center">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4nshhh&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4nshhh&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=4nshhh&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=4nshhh&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=4nshhh&theme=github_dark" />
+  </div>
+  <br>
+  
+</div>
+
+---
+
+  [![Anshh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4nshhh&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
 
 
-## 🏅 Badges
-![github-foundations](https://github.com/user-attachments/assets/657dd129-c3d3-4871-8d05-3567f729729e)
-![microsoft-certified-azure-data-fundamentals](https://github.com/user-attachments/assets/c6494674-9157-4273-a4c9-acfae8386ee4)
+## 🏅 GSSOC'26 Badges
+
+<img width="150" alt="gssoc-badge-power_contributor" src="https://github.com/user-attachments/assets/70bab968-ce4d-4fe3-acf3-a0977576d4a6" />
+<img width="150" alt="gssoc-badge-rising_star" src="https://github.com/user-attachments/assets/fae3c72f-abba-4ec9-82b5-c786df4f7c4b" />
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
