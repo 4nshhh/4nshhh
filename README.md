@@ -9,7 +9,6 @@
 
 <p>
   <a href="https://komarev.com/ghpvc/?username=4nshhh&label=Profile%20views&color=0e75b6&style=for-the-badge"><img src="https://komarev.com/ghpvc/?username=4nshhh&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" /></a>
-  <a href="https://github.com/4nshhh?tab=repositories"><img src="https://img.shields.io/github/stars/4nshhh?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" alt="Total stars" /></a>
 </p>
 
 </div>
