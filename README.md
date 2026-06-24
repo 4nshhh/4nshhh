@@ -100,7 +100,7 @@
 
 
 ## 🏅 GSSOC'26 Badges
-
+<img width="150" alt="gssoc-badge-elite" src="https://github.com/user-attachments/assets/473dfb2a-8617-4272-9f06-5201a49a9704" />
 <img width="150" alt="gssoc-badge-power_contributor" src="https://github.com/user-attachments/assets/70bab968-ce4d-4fe3-acf3-a0977576d4a6" />
 <img width="150" alt="gssoc-badge-rising_star" src="https://github.com/user-attachments/assets/fae3c72f-abba-4ec9-82b5-c786df4f7c4b" />
 <img width="150" alt="gssoc-badge-point_scorer" src="https://github.com/user-attachments/assets/56635e5d-f8f1-4142-9378-07a641c53a40" />
