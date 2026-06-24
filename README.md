@@ -33,8 +33,10 @@
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/4nshh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/anshh_0212/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://ansh-portfolio-02.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:anshpanchal1886@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://leetcode.com/u/anshh_02/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.instagram.com/anshh_0212/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -45,7 +47,7 @@
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,java,c" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,java,javascript" />
 </p>
 
 ### Data Science & ML
@@ -55,12 +57,12 @@
 
 ### Databases & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=anaconda,git,github,vscode,pycharm" />
+  <img src="https://skillicons.dev/icons?i=anaconda,git,github,vscode,pycharm,postman" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
