@@ -36,7 +36,6 @@
   <a href="https://ansh-portfolio-02.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:anshpanchal1886@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://leetcode.com/u/anshh_02/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://www.instagram.com/anshh_0212/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -96,17 +95,6 @@
 
 
 ---
-
-
-
-## 🏅 GSSOC'26 Badges
-<img width="150" alt="gssoc-badge-elite" src="https://github.com/user-attachments/assets/473dfb2a-8617-4272-9f06-5201a49a9704" />
-<img width="150" alt="gssoc-badge-power_contributor" src="https://github.com/user-attachments/assets/70bab968-ce4d-4fe3-acf3-a0977576d4a6" />
-<img width="150" alt="gssoc-badge-rising_star" src="https://github.com/user-attachments/assets/fae3c72f-abba-4ec9-82b5-c786df4f7c4b" />
-<img width="150" alt="gssoc-badge-point_scorer" src="https://github.com/user-attachments/assets/56635e5d-f8f1-4142-9378-07a641c53a40" />
-<img width="150" alt="gssoc-badge-role_contributor" src="https://github.com/user-attachments/assets/44394bb1-06c5-41e4-8614-aae65b3bd4eb" />
-
-
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
